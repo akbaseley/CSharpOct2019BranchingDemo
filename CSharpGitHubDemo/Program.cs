@@ -6,7 +6,8 @@ namespace CSharpGitHubDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C# 2019!");
+            Console.WriteLine("Hello C# October 2019!");
+
         }
     }
 }
